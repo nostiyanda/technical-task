@@ -1,0 +1,11 @@
+.box{
+    height: auto;
+    width: 239px;
+    margin: auto;
+    border: 10px #CCC solid;
+    padding: 10px;
+}
+
+.box input {
+    padding:5px;
+}
